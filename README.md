@@ -1,2 +1,4 @@
 # exercicios-go-bases
-Repositório para exercícios IT Bootcamp
+
+## Introdução - Linguagem GO
+Exercício da aula 1 - Go Bases
