@@ -24,11 +24,11 @@ func main() {
 	idade = 23
 	isEmpregado = true
 	tempoDeAtividade = 2
-	valorSalario = 100.000
+	valorSalario = 150000
 
 	if idade > 22 && isEmpregado == true && tempoDeAtividade > 1 {
 
-		if valorSalario > 100.000 {
+		if valorSalario > 100000 {
 			fmt.Println("Empréstimo concedido sem juros")
 		} else {
 			fmt.Println("Empréstimo concedido")
